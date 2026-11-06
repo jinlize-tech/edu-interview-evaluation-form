@@ -1,0 +1,24 @@
+{
+  "number": 71,
+  "product_id": "JLZ-EDU-SK-057",
+  "chinese_name": "面试评价表",
+  "english_name": "Interview Evaluation Form",
+  "repository_name": "edu-interview-evaluation-form",
+  "product_type": "Skill",
+  "category": "06 人力组织中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-interview-evaluation-form-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "岗位能力模型、面试记录、评分维度和招聘决策规则",
+  "main_output": "评价表字段、行为锚点评分、综合结论、证据缺口和决策建议",
+  "package_entries": [
+    "edu-interview-evaluation-form/SKILL.md",
+    "edu-interview-evaluation-form/references/DOMAIN_GUIDE.md",
+    "edu-interview-evaluation-form/references/EXAMPLES.md",
+    "edu-interview-evaluation-form/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

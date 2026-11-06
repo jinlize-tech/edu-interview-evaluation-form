@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-057",
+  "repository_name": "edu-interview-evaluation-form",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-interview-evaluation-form-v1.0.0.zip",
+  "sha256": "5B6944FB870F104D398B57546D5F93BCDF0BFF4867A7D7AD3767A6FCFE856C23",
+  "bytes": 4815,
+  "entries": [
+    "edu-interview-evaluation-form/SKILL.md",
+    "edu-interview-evaluation-form/references/DOMAIN_GUIDE.md",
+    "edu-interview-evaluation-form/references/EXAMPLES.md",
+    "edu-interview-evaluation-form/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:42:23.1818824+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
