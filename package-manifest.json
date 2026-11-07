@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-057",
   "repository_name": "edu-interview-evaluation-form",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-interview-evaluation-form-v1.0.0.zip",
-  "sha256": "5B6944FB870F104D398B57546D5F93BCDF0BFF4867A7D7AD3767A6FCFE856C23",
-  "bytes": 4815,
+  "version": "1.0.1",
+  "package_path": "dist/edu-interview-evaluation-form-v1.0.1.zip",
+  "sha256": "927C536ABC2B96F197176582CF4FE0148F2FDD013B08BDF27AC80A55F297289F",
+  "bytes": 14466,
   "entries": [
     "edu-interview-evaluation-form/SKILL.md",
     "edu-interview-evaluation-form/references/DOMAIN_GUIDE.md",
     "edu-interview-evaluation-form/references/EXAMPLES.md",
-    "edu-interview-evaluation-form/templates/OUTPUT_TEMPLATE.md"
+    "edu-interview-evaluation-form/templates/OUTPUT_TEMPLATE.md",
+    "edu-interview-evaluation-form/README.md",
+    "edu-interview-evaluation-form/USAGE.md",
+    "edu-interview-evaluation-form/LICENSE",
+    "edu-interview-evaluation-form/THIRD_PARTY_NOTICES.md",
+    "edu-interview-evaluation-form/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:42:23.1818824+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-interview-evaluation-form-v1.0.0.zip",
+  "previous_package_sha256": "5B6944FB870F104D398B57546D5F93BCDF0BFF4867A7D7AD3767A6FCFE856C23",
+  "built_at": "2026-11-07T09:17:12.2004003+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }

@@ -6,19 +6,37 @@
   "repository_name": "edu-interview-evaluation-form",
   "product_type": "Skill",
   "category": "06 人力组织中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-interview-evaluation-form-v1.0.0.zip",
+  "baseline_commit": "858fcc9b4c7d5e40272e4b2ba9e1df5e63560050",
+  "package_path": "dist/edu-interview-evaluation-form-v1.0.1.zip",
+  "previous_package_path": "dist/edu-interview-evaluation-form-v1.0.0.zip",
+  "previous_package_sha256": "5B6944FB870F104D398B57546D5F93BCDF0BFF4867A7D7AD3767A6FCFE856C23",
   "calculator": false,
   "core_input": "岗位能力模型、面试记录、评分维度和招聘决策规则",
   "main_output": "评价表字段、行为锚点评分、综合结论、证据缺口和决策建议",
+  "main_output_fields": [
+    "评价表字段",
+    "行为锚点评分",
+    "综合结论",
+    "证据缺口和决策建议"
+  ],
   "package_entries": [
     "edu-interview-evaluation-form/SKILL.md",
     "edu-interview-evaluation-form/references/DOMAIN_GUIDE.md",
     "edu-interview-evaluation-form/references/EXAMPLES.md",
-    "edu-interview-evaluation-form/templates/OUTPUT_TEMPLATE.md"
+    "edu-interview-evaluation-form/templates/OUTPUT_TEMPLATE.md",
+    "edu-interview-evaluation-form/README.md",
+    "edu-interview-evaluation-form/USAGE.md",
+    "edu-interview-evaluation-form/LICENSE",
+    "edu-interview-evaluation-form/THIRD_PARTY_NOTICES.md",
+    "edu-interview-evaluation-form/scripts/validate_input.js"
   ]
 }
